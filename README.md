@@ -1,1 +1,1 @@
-# deep-rl
+# Deep reinforced learning
