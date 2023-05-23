@@ -1,1 +1,1 @@
-# Deep reinforced learning
+# Deep Reinforcement Learning (ongoing course)
